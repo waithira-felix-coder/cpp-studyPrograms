@@ -1,3 +1,9 @@
+﻿/*
+    File: class Circle2.cpp
+    Topic: Extended circle class example with additional class-based functionality.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
 #include<iostream>
 using namespace std;
 class circle
@@ -41,3 +47,4 @@ int main()
 	cout<<"\nCircumference of the circle is:",circlecircumference;
 	return 0;
 }
+

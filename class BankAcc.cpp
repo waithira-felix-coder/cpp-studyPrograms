@@ -1,3 +1,9 @@
+﻿/*
+    File: class BankAcc.cpp
+    Topic: Bank account class sample implementing a simple banking data structure.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
 #include<iostream>
 #include<string>
 using namespace std;

@@ -1,3 +1,9 @@
+﻿/*
+    File: d.constructors.cpp
+    Topic: Constructor demonstration covering object initialization and setup.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
 #include<iostream>
 using namespace std;
 class line

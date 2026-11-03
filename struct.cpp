@@ -1,3 +1,9 @@
+﻿/*
+    File: struct.cpp
+    Topic: Structure example showing grouped data in a user-defined type.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
 #include<iostream>
 #include <cstring>
 using namespace std;
@@ -48,3 +54,4 @@ cout << "Book 2 id : " << Book2.book_id <<endl;
 return 0;
 
 }
+

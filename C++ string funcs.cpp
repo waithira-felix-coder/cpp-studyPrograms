@@ -1,3 +1,9 @@
+﻿/*
+    File: C++ string funcs.cpp
+    Topic: String function examples demonstrating common C++ string operations.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
 #include<iostream>
 #include<string>
 using namespace std;

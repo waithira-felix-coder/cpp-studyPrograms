@@ -1,3 +1,9 @@
+﻿/*
+    File: XBC.cpp
+    Topic: General C++ coding exercise for basic program logic and experimentation.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
 #include<iostream>
 #include<string>
 

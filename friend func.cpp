@@ -1,3 +1,9 @@
+﻿/*
+    File: friend func.cpp
+    Topic: Friend function example demonstrating access to private class members.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
 #include<iostream>
 using namespace std;
 class box

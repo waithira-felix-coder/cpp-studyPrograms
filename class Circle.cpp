@@ -1,3 +1,9 @@
+﻿/*
+    File: class Circle.cpp
+    Topic: Circle class example demonstrating attributes and methods.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
 #include<iostream>
 using namespace std;
 class circle
@@ -46,3 +52,4 @@ int main()
 
 	return 0;
 }
+

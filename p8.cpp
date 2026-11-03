@@ -1,3 +1,9 @@
+﻿/*
+    File: p8.cpp
+    Topic: Practice exercise 8 covering basic programming concepts in C++.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
 #include<iostream>
 using namespace std;
 class car

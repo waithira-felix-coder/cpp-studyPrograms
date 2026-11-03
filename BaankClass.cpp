@@ -1,3 +1,9 @@
+﻿/*
+    File: BaankClass.cpp
+    Topic: Bank account class exercise demonstrating object-oriented design.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
 #include<iostream>
 #include<string>
 

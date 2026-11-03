@@ -1,3 +1,9 @@
+﻿/*
+    File: 2DArray.cpp
+    Topic: Two-dimensional array example that prints matrix values by row and column.
+    This file is part of a first-year C++ exercise set.
+    It demonstrates foundational programming concepts such as logic, loops, functions, classes, and object-oriented design.
+*/
  #include <iostream>
 using namespace std;
 
@@ -10,3 +16,4 @@ int main(){
    }
    return 0;
 }
+
