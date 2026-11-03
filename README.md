@@ -6,7 +6,7 @@ This repository contains a collection of beginner and intermediate C++ programs 
 
 - The files are small practice exercises meant to strengthen understanding of C++ syntax and programming concepts.
 - Most programs are simple console applications that demonstrate one concept at a time.
-- The `.exe` files are compiled output generated from the source programs and can be ignored while reading the code.
+- The `.exe` files are compiled output generated from the source programs and are intentionally excluded from version control.
 
 ## Topics covered
 
