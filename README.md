@@ -1,6 +1,6 @@
-﻿# C++ First-Year Exercise Repository
+﻿# C++ Exercise Repository
 
-This repository contains a collection of beginner and intermediate C++ programs created during first-year study. The exercises cover core programming skills, including variables, control flow, functions, arrays, pointers, classes, inheritance, and exception handling.
+This repository contains a collection of beginner and intermediate C++ programs created during. The exercises cover core programming skills, including variables, control flow, functions, arrays, pointers, classes, inheritance, and exception handling.
 
 ## Overview
 
